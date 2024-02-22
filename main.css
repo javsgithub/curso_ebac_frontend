@@ -1,0 +1,22 @@
+.container{
+    margin-top: 60px;
+    background-color: rgb(244, 244, 83);
+    border-radius: 10px;
+}
+
+.container h1{
+    margin-bottom: 32px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-top: 20px;
+    font-style: italic;
+}
+
+form button{
+    margin: 16px 0;
+}
+
+.btn{
+    width: 150px;
+}
